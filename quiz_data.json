@@ -1,0 +1,6395 @@
+[
+  {
+    "street": "\ufeff10th Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "11th Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "12th Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "13th Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "13th Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "14th Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "15th Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "15th Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "16th Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "16th Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "17th Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "17th Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "18th Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "18th Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "19th Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "1st Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "1st Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "20th Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "21st Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "2nd Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "4th Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "6th Street",
+    "districts": [
+      1,
+      2
+    ]
+  },
+  {
+    "street": "7th Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "9th Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Abbey Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Abbotsford Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Acacia Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Acorn Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Adair Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Adrian Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Airlie Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Alaska Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Albert Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Albery Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Alderwood Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Aldous Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Aldrin Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Allman Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Almond Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Alpha Avenue",
+    "districts": [
+      5,
+      7
+    ]
+  },
+  {
+    "street": "Alpha Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Altair Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Altringham Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Amberwood Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Anola Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Antrim Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Aquarius Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Arbor Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Arbroath Street",
+    "districts": [
+      1,
+      2
+    ]
+  },
+  {
+    "street": "Arcola Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Arcola Way",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Arden Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Ardingley Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Argo Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Aries Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Armstrong Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Arrow Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Arthur Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Arts Road",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Arvin Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Ash Grove Crescent",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Ashley Grove Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Ashworth Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Ashworth Place",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Aspen Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Aspenwood Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Astor Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Atlee Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Aubrey Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Augusta Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Austin Road",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Avalon Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Avondale Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Ayshire Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Baffin Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Bainbridge Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Balmoral Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Banff Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Banting Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Barbell Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Barker Avenue",
+    "districts": [
+      3,
+      7
+    ]
+  },
+  {
+    "street": "Barker Crescent",
+    "districts": [
+      3,
+      7
+    ]
+  },
+  {
+    "street": "Barnet Highway",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Barnet Road",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Barrie Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Bartlett Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Baxter Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Baytree Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Bayview Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Beamish Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Beaverbrook Crescent",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Beaverbrook Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Beechcliffe Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Beedie Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Belcarra Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Belden Road",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Belfriar Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Bell Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Belleville Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Bellwood Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Bennett Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Beresford Street",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Beridale Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Berkley Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Berkley Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Berwick Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Berwick Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Bessborough Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Beta Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Bevan Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Bill Fox Way",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Birch Grove Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Birchwood Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Birchwood Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Birkdale Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Blaine Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Blaine Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Blaine Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Blaine Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Bond Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Bonneville Place",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Bonsor Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Booth Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Boundary Onramp Road",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Boundary Road",
+    "districts": [
+      3,
+      5,
+      7
+    ]
+  },
+  {
+    "street": "Boxer Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Bradley Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Braelawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Braemar Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Braemoor Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Braeside Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Brandon Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Brantford Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Brentlawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Brentwood Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Brentwood Mall Loop",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Briar Road",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Briarwood Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Bridgewater Crescent",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Bridgewood Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Bridlewood Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Brief Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Brighton Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Brisbane Crescent",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Britton Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Broadway",
+    "districts": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "street": "Bromley Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Brookdale Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Brooklyn Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Bryant Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Bryant Street",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Brynlor Drive",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Buchanan Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Buchanan Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Buckingham Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Buckingham Drive",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Buckingham Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Buena Vista Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Buffalo Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Buffalo Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Buller Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Burford Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Burgess Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Burke Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Burlington Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Burnaby Mountain Parkway",
+    "districts": [
+      4,
+      8
+    ]
+  },
+  {
+    "street": "Burnfield Crescent",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Burnham Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Burnlake Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Burns Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Burns Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Burns Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Burnwood Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Burnwood Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Burris Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Buxton Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Buxton Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Byrne Road",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Byrnepark Drive",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Byrnepark Walk",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Calvin Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Camarillo Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Cambridge Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Cameron Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Camino Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Camrose Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Canada Way",
+    "districts": [
+      1,
+      2,
+      7
+    ]
+  },
+  {
+    "street": "Canberra Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Capella Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Capistrano Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Capitol Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Caraway Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Cardiff Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Cardiff Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Cardinal Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Cardinal Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Cardston Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Carey Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Cariboo Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Cariboo Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Cariboo Road",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Cariboo Road North",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Carina Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Carleton Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Carleton Court",
+    "districts": [
+      3,
+      7
+    ]
+  },
+  {
+    "street": "Carnegie Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Carnleigh Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Carrigan Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Carson Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Carson Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Carson Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Cascade Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Casewell Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Cassie Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Castlewood Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Caulwynd Place",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Cedar Rose Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Cedardale Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Cedarglen Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Cedarwood Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Cedarwood Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Centaurus Circle",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Centaurus Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Centennial Way",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Central Boulevard",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Century Park Way",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Chaffey Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Chapple Crescent",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Charing Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Charles Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Charlford Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Charlotte Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Chaucer Place",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Chelsea Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Cherrywood Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Chesham Avenue",
+    "districts": [
+      3,
+      7
+    ]
+  },
+  {
+    "street": "Cheshire Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Chicory Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Chinook Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Chiselhampton Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Chrisdale Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Christopher Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Chutter Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Cinnamon Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Clare Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Claremont Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Claridge Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Claude Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Claymore Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Clayton Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Clayton Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Cliff Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Clinton Street",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Cloverlake Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Colborne Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Colbrook Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Coldicutt Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Colleen Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Collier Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Collister Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Colter Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Commerce Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Conrad Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Conway Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Coquitlam Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Cornerstone Gate",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Cornerstone Mews",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Corona Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Corona Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Coronado Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Coventry Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Craig Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Creekside Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Crest Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Crestlawn Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Crestlawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Cumberland Place",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Cumberland Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Cunningham Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Curle Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Curr Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Curragh Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Curtis Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Daisy Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Dale Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Dalebright Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Dalla-tina Avenue",
+    "districts": [
+      4,
+      8
+    ]
+  },
+  {
+    "street": "Darnley Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Darwin Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Dauphin Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "David Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Davies Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Dawn Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Dawson Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Deer Lake Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Deer Lake Drive",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Deer Lake Parkway",
+    "districts": [
+      1,
+      7
+    ]
+  },
+  {
+    "street": "Deer Lake Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Dellawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Delta Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Delwood Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Denbigh Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Dent Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Dickens Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Dickens Street",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Divine Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Dominion Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Donovan Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Dorchester Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Dorman Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Dorset Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Douglas Road",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Dover Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Dow Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Driftwood Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Dubois Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Dufferin Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Dunblane Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Duncan Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Dundas Street",
+    "districts": [
+      4,
+      5
+    ]
+  },
+  {
+    "street": "Dundonald Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Dunlop Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Dunnedin Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Dunvegan Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Duthie Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Eagles Drive",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "2nd Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "4th Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "East Campus Road",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "East Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Eastbrook Parkway",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Eastlake Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Eastlawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Edinburgh Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Edison Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Edmonds Station Loop",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Edmonds Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Ednor Crescent",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Edson Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Eglinton Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Eleanor Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Elford Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Elgin Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Elgin Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Elkwood Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Ellerslie Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Ellerton Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Ellesmere Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Elmgrove Drive",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Elmgrove Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Elmwood Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Elsom Avenue",
+    "districts": [
+      3,
+      7
+    ]
+  },
+  {
+    "street": "Elwell Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Elwyn Drive",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Emerson Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Empire Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Empress Avenue",
+    "districts": [
+      1,
+      2
+    ]
+  },
+  {
+    "street": "Endersby Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "English Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Enterprise Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Epping Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Erickson Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Erin Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Esmond Avenue",
+    "districts": [
+      5,
+      7
+    ]
+  },
+  {
+    "street": "Ethel Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Eton Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Everett Crescent",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Ewart Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Express Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Fairland Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Fairlawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Fairy Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Falkland Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Fareham Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Farrington Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Fell Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Fenwick Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Fernglen Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Fernglen Drive",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Fernglen Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Field Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Fielding Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Finch Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Fir Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Firth Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Fitzgerald Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Flowering Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Ford Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Forest Grove Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Forest Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Forest Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Forglen Drive",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Formby Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Frances Street",
+    "districts": [
+      4,
+      5
+    ]
+  },
+  {
+    "street": "Fraser Park Drive",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Fraserton Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Fraserwood Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Frederick Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Fulton Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Fulwell Street",
+    "districts": [
+      1,
+      7
+    ]
+  },
+  {
+    "street": "Gable Drive",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Gaglardi Offramp Way",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Gaglardi Onramp Way",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Gaglardi Way",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Gamma Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Ganymede Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Ganymede Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Garden Grove Drive",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Gardner Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Gatenby Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Gatineau Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Georgia Street",
+    "districts": [
+      4,
+      5
+    ]
+  },
+  {
+    "street": "Gerald Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Gibson Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Giles Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Gilley Avenue",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Gilmon Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Gilmore Avenue",
+    "districts": [
+      5,
+      7
+    ]
+  },
+  {
+    "street": "Gilmore Diversion",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Gilmore Way",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Gilpin Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Gilpin Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Gilpin Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Glasgow Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Glen Abbey Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Glencarin Drive",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Glenlyon Parkway",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Glenwood Close",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Glenwood Drive",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Glynde Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Goard Way",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Godwin Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Golden Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Goldhurst Terrace",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Goleta Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Goleta Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Goodlad Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Gordon Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Gordon Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Goring Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Government Road",
+    "districts": [
+      4,
+      6
+    ]
+  },
+  {
+    "street": "Government Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Grafton Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Grafton Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Graham Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Grandview Highway",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Grandview Offramp Highway",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Grandview Onramp Highway",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Grange Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Grant Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Grant Street",
+    "districts": [
+      4,
+      5
+    ]
+  },
+  {
+    "street": "Grassmere Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Graveley Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Gray Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Green Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Greenall Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Greenford Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Greenhouse Lane",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Greenlake Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Greentree Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Greenwood Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Greenwood Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Greta Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Greystone Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Griffiths Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Griffiths Drive",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Griffiths Lane",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Grimmer Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Grosvenor Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Grosvenor Crescent",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Grove Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Halifax Street",
+    "districts": [
+      4,
+      5
+    ]
+  },
+  {
+    "street": "Hall Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Halley Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Halligan Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Halston Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Hambry Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Hammarskjold Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Hampstead Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Hanna Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Harbour View Road",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Hardwick Street",
+    "districts": [
+      1,
+      7
+    ]
+  },
+  {
+    "street": "Hardy Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Hare Krishna Lane",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Harken Drive",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Harley Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Harper Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Hastings Street",
+    "districts": [
+      4,
+      5
+    ]
+  },
+  {
+    "street": "Haszard Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Hatton Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Hawthorne Terrace",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Hazel Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Hazelmere Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Hazelnut Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Hazelwood Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Heathdale Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Heathdale Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Hedge Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Hedley Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Henning Drive",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Hersham Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Hertford Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Hewitt Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Hickory Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Highfield Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Highland Court",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Highlawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Hilda Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Hill Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Hillside Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Hillview Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Holdom Avenue",
+    "districts": [
+      4,
+      5
+    ]
+  },
+  {
+    "street": "Hollis Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Holly Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Holmes Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Horne Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Howard Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Hubert Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Hummel Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Humphries Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Humphries Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Humphries Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Hunter Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Hunter Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Hurst Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Huxley Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Hycrest Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Hyde Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Hythe Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Imperial Street",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Ingleside Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Ingleton Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Inlet Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Inman Avenue",
+    "districts": [
+      3,
+      7
+    ]
+  },
+  {
+    "street": "Inman Close",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Innsmoor Place",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Invergarry Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Iris Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Irmin Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Irving Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Ivar Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Ivy Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "James Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Jensen Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Jersey Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Joe Sakic Way",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Joffre Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Jordan Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Jubilee Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Juneau Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Kalyk Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Karen Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Karrman Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Kask Bros",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Kathleen Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Kaymar Drive",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Keith Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Kemp Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Kendale Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Kenneth Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Kenny Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Kensington Avenue",
+    "districts": [
+      1,
+      4
+    ]
+  },
+  {
+    "street": "Kensington Offramp Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Kensington Onramp Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Kentwood Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Kerrywood Crescent",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Keswick Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Kilrea Crescent",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Kilrea Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Kincaid Street",
+    "districts": [
+      1,
+      7
+    ]
+  },
+  {
+    "street": "Kingsborough Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Kingsford Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Kingsland Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Kingsland Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Kingsway",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Kira Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Kisbey Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Kitchener Street",
+    "districts": [
+      4,
+      5
+    ]
+  },
+  {
+    "street": "Klenner Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Kneale Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Knightswood Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Koala Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Kraft Crescent",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Kraft Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Kyle Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Lake City Way",
+    "districts": [
+      4,
+      6
+    ]
+  },
+  {
+    "street": "Lake Way",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Lakedale Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Lakefield Drive",
+    "districts": [
+      1,
+      2
+    ]
+  },
+  {
+    "street": "Lakeland Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Lakeview Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Lambeth Drive",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Lane Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Langley Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Larkfield Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Larkin Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Laurel Street",
+    "districts": [
+      1,
+      7
+    ]
+  },
+  {
+    "street": "Laurelwood Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Laurie Jack Lane",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Lawrence Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Lawrence Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Lealand Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Ledger Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Lee Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Leeds Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Leeside Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Leibly Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Liberty Place",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Liersch",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Linden Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Lindrick Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Lindsay Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Linfield Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Linwood Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Lister Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Lister Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Littlewood Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Lochdale Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Lonicera Place",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Lorilawn Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Lorraine Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Lougheed Highway",
+    "districts": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "street": "Lougheed Mall Loop",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Lowland Drive",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Lozells Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Lyndhurst Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Lynndale Crescent",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Lyra Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Lytham Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Macdonald Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Macpherson Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Madison Avenue",
+    "districts": [
+      5,
+      6
+    ]
+  },
+  {
+    "street": "Magnolia Terrace",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Mahon Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Maitland Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Malibu Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Malvern Avenue",
+    "districts": [
+      1,
+      2
+    ]
+  },
+  {
+    "street": "Manchester Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Mandy Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Manor Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Manson Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Manson Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Manzanita Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Maple Grove Crescent",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Maple Tree Lane",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Maplehurst Circle",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Maplewood Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Marine Drive",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Marine Way",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Mario Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Mark Crescent",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Market Crossing",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Marlborough Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Marsden Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Martin Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Martin Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Mary Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Mason Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Mathissi Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Maureen Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Maureen Crescent",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Mavis Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mawhinney Close",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Mayberry Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mayfield Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Mayview Circle",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Maywood Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mcbride Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Mccarthy Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Mcconnell Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Mcconnell Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Mcdermott Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Mcgill Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Mcgregor Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mckay Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mckee Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mckee Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mckercher Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mcmurray Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Meadedale Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Meadow Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Meadowood Close",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Meadowood Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Meadowood Park",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Meridian Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Merritt Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mesa Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Metrotown Station Loop",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Midlawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Millbrook Lane",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Millburn Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Miller Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mira Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mission Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Mona Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Monarch Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Monroe Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Montclair Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Montecito Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Moorcroft Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Moore Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Moorside Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Moreland Drive",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Morley Drive",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Morley Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Morningside Lane",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Morrey Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Moscrop Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Mountbatten Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Mountview Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Mulberry Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Myrtle Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Napier Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Nelson Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Nelson Way",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Neptune Crescent",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Neville Street",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "New Vista Place",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Newcombe Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Newton Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Nichols Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Nithsdale Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Noel Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Noelani Place",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Nolan Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Norcrest Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Norfolk Street",
+    "districts": [
+      1,
+      7
+    ]
+  },
+  {
+    "street": "Norland Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "North Beta Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Boundary Road",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Carleton Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Cliff Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Delta Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Ellesmere Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Esmond Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Fell Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Fraser Crescent",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "North Fraser Way",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "North Gamma Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Gilmore Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Glynde Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Grosvenor Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Holdom Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Howard Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Hythe Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Ingleton Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Macdonald Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Madison Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Ranelagh Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Road",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "North Rosser Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Sea Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Springer Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Stratford Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Warwick Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "North Willingdon Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Northbrook Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Northcliffe Crescent",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Northlawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Northview Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Nursery Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Oakdale Road",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Oakglen Drive",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Oakhill Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Oakland Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Oakland Street",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Oakmount Crescent",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Oaktree Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Olive Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Orion Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Oxford Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Palace Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Palm Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Pandora Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Pandora Street",
+    "districts": [
+      4,
+      5
+    ]
+  },
+  {
+    "street": "Parkcrest Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Parkdale Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Parker Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Parklawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Parkview Place",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Parkwood Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Parkwood Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Patrick Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Patrick Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Patterson Avenue",
+    "districts": [
+      3,
+      7
+    ]
+  },
+  {
+    "street": "Paulus Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Paulus Crescent",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Pearl Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Pender Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Pentland Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Penzance Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Pepperidge Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Percival Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Peter Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Phillips Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Phillips Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Pine Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Pinehurst Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Pinewood Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Pioneer Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Piper Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Pitt Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Plum Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Portage Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Portland Street",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Prenter Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Preston Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Price Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Price Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Primula Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Pritchard Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Production Way",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Punnett Close",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Pynford Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Queensbridge Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Queenston Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Rainbow Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Ramsay Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Randolph Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Ranelagh Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Rathburn Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Rayside Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Regent Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Reigate Road",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Remi Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Ridge Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Ridgelawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Ridgemoor Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Ridgeview Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Ridley Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Rietta Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Riverbend Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Riverbend Drive",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Riverfront Gate",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Roberts Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Robins Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Rochester Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Roper Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Roseberry Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Roseglen Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Rosewood Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Roslyn Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Rosser Avenue",
+    "districts": [
+      5,
+      7
+    ]
+  },
+  {
+    "street": "Rosswood Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Rothbury Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Rowan Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Roy Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Royal Oak Avenue",
+    "districts": [
+      1,
+      3,
+      7
+    ]
+  },
+  {
+    "street": "Roycroft Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Rugby Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Rumble Street",
+    "districts": [
+      2,
+      3
+    ]
+  },
+  {
+    "street": "Russell Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Saffron Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Salisbury Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Salish Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Samara Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sandborne Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Sandell Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sanders Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sanderson Way",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Sandlewood Crescent",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Sapperton Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Saratoga Court",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sardis Crescent",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sardis Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Saturna Drive",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Scenic Highway",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Schou Street",
+    "districts": [
+      1,
+      7
+    ]
+  },
+  {
+    "street": "Science Road",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Sea Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Sellers Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Selma Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sequoia Road",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Service Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sfu Exchange",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Shelby Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Shellmont Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Shepherd Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sherban Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Sherlock Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Sherritt Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Shirley Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Short Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sidley Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sierra Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Silver Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Smith Avenue",
+    "districts": [
+      3,
+      7
+    ]
+  },
+  {
+    "street": "Smith Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Snowberry Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "South Campus Road",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Southcrest Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Southlawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Southoaks Crescent",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Southpoint Drive",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Southridge Drive",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Southview Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Southwood Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Southwood Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Southwynde Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Sperling Avenue",
+    "districts": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "street": "Sperling Offramp Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Springdale Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Springer Avenue",
+    "districts": [
+      5,
+      7
+    ]
+  },
+  {
+    "street": "Sprott Offramp Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Sprott Onramp Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Sprott Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Spruce Street",
+    "districts": [
+      1,
+      7
+    ]
+  },
+  {
+    "street": "Spur Road",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "St Charles Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Stanley Crescent",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Stanley Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Station Hill Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Station Hill Drive",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Still Creek Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Still Creek Drive",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Stoney Creek Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Stormont Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Stratford Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Strathearn Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Strathmore Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Strawson Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Stride Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Sullivan Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Sumas Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Sumas Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Sumner Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Suncrest Drive",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sunflower Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sunland Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sunningdale Road",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Sunnybridge Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Sunset Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Sunslope Crescent",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Sussex Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Sutliff Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Sylvan Drive",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Takeda Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Tallin Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Taralawn Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Taylor Place",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Teal Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Telford Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Terry Fox Lane",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Texaco Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Thomas Street",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Thorne Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Thornwood Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Thunderbird Crescent",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Thurston Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Tillicum Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Timber Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Totem Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Tower Road",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Trans-canada Highway",
+    "districts": [
+      1,
+      5,
+      6
+    ]
+  },
+  {
+    "street": "Trapp Avenue",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Tretheway Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Trinity Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Triumph Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Trudy Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Tye Court",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Tyndale Crescent",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Tyndale Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Ulster Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Underhill Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Union Street",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "University Crescent",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "University Drive",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "University Drive East",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "University Drive West",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "University High Street",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Varley Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Vega Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Velodrome",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Venables Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Venture Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Victory Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Village Drive",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Village Green",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Vinewood Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Vipond Place",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Vista Crescent",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Wakefield Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Wakely Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Walker Avenue",
+    "districts": [
+      1,
+      2
+    ]
+  },
+  {
+    "street": "Walmsley Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Walter Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Waltham Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Warren Street",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Warwick Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Watling Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Waverley Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Wayburne Drive",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Wedgewood Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Welsley Drive",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "West Campus Road",
+    "districts": [
+      8
+    ]
+  },
+  {
+    "street": "Westlake Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Westlawn Drive",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Westminster Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Weston Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Wheater Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Whelen Court",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "White Avenue North",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "White Avenue South",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Whitsell Avenue",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Wickham Place",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Widmer Court",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Wiggins Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Wilberforce Street",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Wilderness Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Wildwood Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Willard Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "William Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Willingdon Avenue",
+    "districts": [
+      3,
+      5,
+      7
+    ]
+  },
+  {
+    "street": "Willingdon Ext",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Willingdon Green",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Willingdon Offramp Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Willingdon Onramp Avenue",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Willoughby Avenue",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Willowdale Place",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Willowleaf Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Wilma Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Wilson Avenue",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Wilton Avenue",
+    "districts": [
+      1
+    ]
+  },
+  {
+    "street": "Wiltshire Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Winch Street",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Windwood Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Winlake Crescent",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Winnifred Street",
+    "districts": [
+      3
+    ]
+  },
+  {
+    "street": "Winsford Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Winston Street",
+    "districts": [
+      4,
+      6
+    ]
+  },
+  {
+    "street": "Woodbrook Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Woodglen Court",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Woodgrove Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Woodhurst Close",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Woodhurst Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Woodlake Court",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Woodridge Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Woodsworth Drive",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Woodsworth Street",
+    "districts": [
+      1,
+      7
+    ]
+  },
+  {
+    "street": "Woodtrail Place",
+    "districts": [
+      6
+    ]
+  },
+  {
+    "street": "Woodvale Crescent",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Woodvale Drive",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Woodway Place",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Woolwich Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Wright Street",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Wynbrook Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Yale Street",
+    "districts": [
+      5
+    ]
+  },
+  {
+    "street": "Yarrow Place",
+    "districts": [
+      2
+    ]
+  },
+  {
+    "street": "Yeovil Avenue",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Yeovil Place",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Yorston Court",
+    "districts": [
+      4
+    ]
+  },
+  {
+    "street": "Yukon Crescent",
+    "districts": [
+      7
+    ]
+  },
+  {
+    "street": "Yule Avenue",
+    "districts": [
+      3
+    ]
+  }
+]
