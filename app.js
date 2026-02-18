@@ -86,18 +86,39 @@ function nextQuestion() {
   feedbackEl.style.color = "#222";
 
   current = pool.pop();
-  const correctSet = current.districts;
+  const correctSet = current.districts.slice().sort((a, b) => a - b);
   const correctKey = normalizeSet(correctSet);
+  const size = correctSet.length;
 
-  const allSets = items.map(i => normalizeSet(i.districts));
-  const uniqueSets = Array.from(new Set(allSets));
+  // Build random distractors (same size as correct)
+  const distractors = new Set();
 
-  const distractors = uniqueSets.filter(s => s !== correctKey);
-  const selectedDistractors = shuffleArray(distractors).slice(0, NUM_CHOICES - 1);
+  while (distractors.size < NUM_CHOICES - 1) {
+    const combo = new Set();
+    while (combo.size < size) {
+      const n = Math.floor(Math.random() * 8) + 1; // districts 1..8
+      combo.add(n);
+    }
+
+    const arr = Array.from(combo).sort((a, b) => a - b);
+    const key = normalizeSet(arr);
+
+    if (key === correctKey) continue;
+
+    // If size > 1, require at least one shared district with correct
+    if (size > 1) {
+      const shared = arr.some(n => correctSet.includes(n));
+      if (!shared) continue;
+    }
+
+    distractors.add(key);
+  }
 
   const choices = shuffleArray([
     formatSet(correctSet),
-    ...selectedDistractors.map(s => s.split(",").map(Number).sort((a, b) => a - b).join(", "))
+    ...Array.from(distractors).map(s =>
+      s.split(",").map(Number).sort((a, b) => a - b).join(", ")
+    )
   ]);
 
   questionEl.textContent = `What districts is ${current.street} in?`;
