@@ -1028,7 +1028,7 @@
   {
     "street": "Burns Court",
     "districts": [
-      3
+      2
     ]
   },
   {
@@ -1040,6 +1040,7 @@
   {
     "street": "Burns Street",
     "districts": [
+      2,
       3
     ]
   },
@@ -1235,14 +1236,14 @@
   {
     "street": "Carleton Avenue",
     "districts": [
-      5
+      5,
+      7
     ]
   },
   {
     "street": "Carleton Court",
     "districts": [
-      3,
-      7
+      3
     ]
   },
   {
@@ -2564,7 +2565,8 @@
   {
     "street": "Gilpin Street",
     "districts": [
-      1
+      1,
+      7
     ]
   },
   {
@@ -2654,7 +2656,8 @@
   {
     "street": "Gordon Avenue",
     "districts": [
-      1
+      1,
+      2
     ]
   },
   {
@@ -2666,7 +2669,7 @@
   {
     "street": "Goring Street",
     "districts": [
-      7
+      4
     ]
   },
   {
@@ -2873,7 +2876,8 @@
   {
     "street": "Halley Avenue",
     "districts": [
-      3
+      3,
+      7
     ]
   },
   {
@@ -3836,7 +3840,7 @@
     "street": "Madison Avenue",
     "districts": [
       5,
-      6
+      7
     ]
   },
   {
@@ -4271,7 +4275,7 @@
   {
     "street": "Morley Drive",
     "districts": [
-      1
+      2
     ]
   },
   {
@@ -4325,7 +4329,8 @@
   {
     "street": "Napier Street",
     "districts": [
-      4
+      4,
+      5
     ]
   },
   {
@@ -4695,7 +4700,8 @@
   {
     "street": "Pandora Drive",
     "districts": [
-      4
+      4,
+      5
     ]
   },
   {
@@ -4890,6 +4896,7 @@
   {
     "street": "Prenter Street",
     "districts": [
+      2,
       3
     ]
   },
@@ -4956,7 +4963,7 @@
   {
     "street": "Rainbow Court",
     "districts": [
-      6
+      4
     ]
   },
   {
@@ -5137,7 +5144,7 @@
   {
     "street": "Roy Street",
     "districts": [
-      7
+      4
     ]
   },
   {
@@ -5388,7 +5395,7 @@
   {
     "street": "Smith Street",
     "districts": [
-      1
+      7
     ]
   },
   {
@@ -5856,7 +5863,8 @@
   {
     "street": "Union Street",
     "districts": [
-      8
+      4,
+      5
     ]
   },
   {
@@ -6390,6 +6398,12 @@
     "street": "Yule Avenue",
     "districts": [
       3
+    ]
+  },
+  {
+    "street": "Evergreen Place",
+    "districts": [
+      6
     ]
   }
 ]
